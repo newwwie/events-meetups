@@ -45,7 +45,7 @@ If you would like to add to this list please submit a pull request for admins to
   - When: Monthly, 2nd Tues
   - Where: INNX Hub Cooperative Working Space
   - Who: Javascript enthusiasts. Amateur to Professional, AngularJS to NodeJS and everything else JS.
-  - Format: Some beverages and short form presentations as well as industry news and jobs board.
+  - Format: Some beverages and short form presentations as well as industry news and jobs board. Post meetup drinks and food at The Edwards afterwards.
 
 ---
 - [Newy Startups](http://www.newystartups.com.au/)
