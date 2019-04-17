@@ -60,3 +60,16 @@ If you would like to add to this list please submit a pull request for admins to
   - Format: Tech events
 
 ---
+
+- [Blast Furnace](https://www.cyferlinx.com/blastfurnace)
+  - Links:
+    - Website: https://www.cyferlinx.com/blastfurnace
+    - Meetup: https://www.meetup.com/Blast-Furnace/
+    - Slack: https://blast-furnace.slack.com
+    - Twitter: https://twitter.com/_BlastFurnace
+  - When: Monthly, 2nd Thursday
+  - Where: The Business Centre, 6 Dick St, Newcastle West NSW 2302
+  - Who: Blast Furnace is a coding-based meetup aimed at all levels of programmers. Members bring their own laptops to participate in the learn to code session and coding comps. The aim is for people wanting to learn how to code to mingle with industry professionals and experienced programmers.Each Blast Furnace event is organised into two sections. The first hour is split into two parts; Coding for beginners in one section and coding competitions for intermediate and advanced coders in another. Following that we enjoy some Pizza and then come together to collaborate on a joint project where we can all learn from each other!
+  - Format: Interactive Tech events
+  
+  ---
